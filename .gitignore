@@ -12,7 +12,6 @@ GNOME-xdg-terminals.list
 .gsd-keyboard.settings-ported
 /gtk-3.0/
 /gtk-4.0/
-/i3/
 /ibus/
 /kitty/
 /libreoffice/
@@ -35,3 +34,4 @@ user-dirs.locale
 xdg-terminals.list
 /yelp/
 
+*~
