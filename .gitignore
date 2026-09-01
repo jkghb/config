@@ -1,3 +1,14 @@
+/Microsoft/
+/Thunar/
+/VirtualBox/
+/enchant/
+/gh/
+/glab-cli/
+/gtk-2.0/
+/inkscape/
+/mimeapps.list
+/teams/
+/wireshark/
 /autostart/
 /brave/
 /BraveSoftware/
@@ -33,5 +44,6 @@ user-dirs.dirs
 user-dirs.locale
 xdg-terminals.list
 /yelp/
+/xfce4/
 
 *~
