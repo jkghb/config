@@ -69,13 +69,15 @@ bindsym $mod+m exec --no-startup-id dmenu_run
 bindsym $mod+j focus left
 bindsym $mod+k focus down
 bindsym $mod+l focus up
-bindsym $mod+semicolon focus right
+# ; or ö
+bindcode $mod+47 focus right
 
 # move focused window
 bindsym $mod+Shift+j move left
 bindsym $mod+Shift+k move down
 bindsym $mod+Shift+l move up
-bindsym $mod+Shift+semicolon move right
+# ; or ö
+bindcode $mod+Shift+47 move right
 
 # split in horizontal orientation
 bindsym $mod+h split h
