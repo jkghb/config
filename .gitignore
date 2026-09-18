@@ -36,6 +36,8 @@ QtProject.conf
 /rclone/
 /simple-scan/
 syncthingtray.ini
+/gnome-initial-setup/
+/ubuntu-insights/
 /systemd/
 /tiling-assistant/
 ubuntu-xdg-terminals.list
